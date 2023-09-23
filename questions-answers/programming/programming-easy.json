@@ -1,0 +1,162 @@
+[
+  {
+    "id": "A1B2C3D4E5",
+    "question": "What is the purpose of a 'for' loop in programming?",
+    "correctAnswer": "Repeated execution of code",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X9Y8Z7W6V5",
+    "question": "Which programming language is often used for data analysis and scientific computing?",
+    "correctAnswer": "Python",
+    "answers": ["JavaScript", "Java", "C++", "Python"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "P3Q7R9S1T2",
+    "question": "What is the purpose of the 'else' statement in programming?",
+    "correctAnswer": "Alternative code execution when a condition is false",
+    "answers": ["Variable declaration", "Function definition", "Conditional execution of code", "Alternative code execution when a condition is false"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5N2O8P4L7",
+    "question": "What does the acronym 'SQL' stand for?",
+    "correctAnswer": "Structured Query Language",
+    "answers": ["Sequential Query Language", "Structured Query Language", "System Query Language", "Static Query Language"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "F1G2H3I4J5K6",
+    "question": "In web development, which programming language is used for defining the structure and content of a web page?",
+    "correctAnswer": "HTML",
+    "answers": ["CSS", "JavaScript", "HTML", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U9V4W1X3Y7Z5",
+    "question": "What is the purpose of the 'while' loop in programming?",
+    "correctAnswer": "Repeated execution of code while a condition is true",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code while a condition is true"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "B2C4D6E8F1G3",
+    "question": "Which data structure in Python is used to store a collection of items, and it does not allow duplicate elements?",
+    "correctAnswer": "Set",
+    "answers": ["List", "Tuple", "Dictionary", "Set"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T8R7E6Q5U4I3",
+    "question": "What is the purpose of the 'break' statement in loops?",
+    "correctAnswer": "To exit the loop prematurely",
+    "answers": ["To continue to the next iteration of the loop", "To print a message", "To execute a function", "To exit the loop prematurely"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "L2M3N4O5P6Q7",
+    "question": "In object-oriented programming, what is a class?",
+    "correctAnswer": "A blueprint for creating objects",
+    "answers": ["A variable", "A function", "A condition", "A blueprint for creating objects"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H7G5F3E1D9C2",
+    "question": "Which programming language is often used for building mobile apps?",
+    "correctAnswer": "Java",
+    "answers": ["C++", "Python", "JavaScript", "Java"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "K8L7M6N5O4P3",
+    "question": "What is the primary purpose of a function in programming?",
+    "correctAnswer": "To group and reuse code",
+    "answers": ["To declare variables", "To define conditions", "To create loops", "To group and reuse code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X2Y3Z4A5B6C7",
+    "question": "Which programming language is known for its use in machine learning and artificial intelligence?",
+    "correctAnswer": "Python",
+    "answers": ["Java", "C++", "Python", "JavaScript"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "D1E2F3G4H5I6",
+    "question": "What does the term 'API' stand for in programming?",
+    "correctAnswer": "Application Programming Interface",
+    "answers": ["Advanced Programming Interface", "Application Program Interface", "Application Programming Interface", "Advanced Program Interface"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "J7K6L5M4N3O2",
+    "question": "In JavaScript, which method is used to display text in a web page?",
+    "correctAnswer": "document.write()",
+    "answers": ["console.log()", "alert()", "print()", "document.write()"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H4G3F2E1D9C8",
+    "question": "What is the purpose of the 'try...catch' block in programming?",
+    "correctAnswer": "To handle exceptions and errors",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To handle exceptions and errors"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U2V3W4X5Y6Z7",
+    "question": "Which data structure in Python is ordered and allows duplicate elements?",
+    "correctAnswer": "List",
+    "answers": ["Set", "Tuple", "Dictionary", "List"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "S6R7Q8P9O1N2",
+    "question": "What is the purpose of the 'continue' statement in loops?",
+    "correctAnswer": "To skip the current iteration and continue with the next",
+    "answers": ["To exit the loop", "To print a message", "To start a new loop", "To skip the current iteration and continue with the next"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T5E4N3C2O1J8",
+    "question": "In object-oriented programming, what is an object?",
+    "correctAnswer": "An instance of a class",
+    "answers": ["A function", "A variable", "A condition", "An instance of a class"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5O4N3K2I1H8",
+    "question": "Which programming language is often used for web development on the server side?",
+    "correctAnswer": "PHP",
+    "answers": ["Java", "C#", "Python", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "G7F6E5D4C3B2",
+    "question": "What is the purpose of the 'switch' statement in programming?",
+    "correctAnswer": "To make decisions based on multiple conditions",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To make decisions based on multiple conditions"],
+    "level": "easy",
+    "category": "programming"
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "A1B2C3D4E5F6G7H8",
+    "question": "What is the purpose of dynamic programming in algorithm design?",
+    "correctAnswer": "To solve problems by breaking them down into smaller overlapping subproblems",
+    "answers": [
+      "To design algorithms that change dynamically",
+      "To create programs that update themselves",
+      "To solve problems by breaking them down into smaller overlapping subproblems",
+      "To generate random solutions to problems"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "I9J1K2L3M4N5O6",
+    "question": "What is the time complexity of the quicksort algorithm in the average case?",
+    "correctAnswer": "O(n log n)",
+    "answers": ["O(1)", "O(n)", "O(n^2)", "O(n log n)"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "P7Q8R9S1T2U3V4",
+    "question": "What is the purpose of memoization in dynamic programming?",
+    "correctAnswer": "To store and reuse the results of expensive function calls",
+    "answers": ["To encrypt data", "To optimize network communication", "To store and reuse the results of expensive function calls", "To generate random numbers"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "W5X6Y7Z8A9B1C2",
+    "question": "What is the Halting Problem in computer science?",
+    "correctAnswer": "A problem that cannot be solved by a Turing machine to determine if an arbitrary program will halt or run forever",
+    "answers": [
+      "A problem that halts all computer programs",
+      "A problem that can be solved by any computer",
+      "A problem that involves halting execution of a program",
+      "A problem that cannot be solved by a Turing machine to determine if an arbitrary program will halt or run forever"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "D3E4F5G6H7I8J9",
+    "question": "What is the purpose of the 'volatile' keyword in C and C++?",
+    "correctAnswer": "To indicate that a variable can be changed by external factors and should not be optimized by the compiler",
+    "answers": [
+      "To declare a constant variable",
+      "To make a variable immutable",
+      "To indicate that a variable can be changed by external factors and should not be optimized by the compiler",
+      "To specify the scope of a variable"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "K1L2M3N4O5P6Q7",
+    "question": "What is the purpose of the 'mutex' (mutual exclusion) in concurrent programming?",
+    "correctAnswer": "To prevent multiple threads from accessing shared resources simultaneously",
+    "answers": [
+      "To create immutable data structures",
+      "To optimize code execution",
+      "To prevent multiple threads from accessing shared resources simultaneously",
+      "To define function prototypes"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "R8S9T1U2V3W4X5",
+    "question": "What is the concept of 'cache coherency' in computer architecture?",
+    "correctAnswer": "Ensuring that multiple caches in a multiprocessor system have consistent views of memory",
+    "answers": [
+      "Optimizing cache performance",
+      "Storing data in memory",
+      "Ensuring that multiple caches in a multiprocessor system have consistent views of memory",
+      "Encrypting cache data"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "Y6Z7A8B9C1D2E3",
+    "question": "What is the purpose of the 'struts' framework in Java web development?",
+    "correctAnswer": "To create a Model-View-Controller (MVC) architecture for web applications",
+    "answers": ["To design user interfaces", "To manage database connections", "To create a Model-View-Controller (MVC) architecture for web applications", "To write algorithms"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "F4G5H6I7J8K9L1",
+    "question": "What is 'concurrency control' in database management systems?",
+    "correctAnswer": "A mechanism to manage simultaneous access to the database by multiple users or transactions",
+    "answers": [
+      "A mechanism to create backups of the database",
+      "A mechanism to compress database files",
+      "A mechanism to manage simultaneous access to the database by multiple users or transactions",
+      "A mechanism to encrypt database records"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "M2N3O4P5Q6R7S8",
+    "question": "What is the purpose of the 'docker' containerization platform?",
+    "correctAnswer": "To package, distribute, and run applications and their dependencies in isolated environments",
+    "answers": [
+      "To develop video games",
+      "To create virtual machines",
+      "To package, distribute, and run applications and their dependencies in isolated environments",
+      "To build hardware devices"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "T9U1V2W3X4Y5Z6",
+    "question": "What is the purpose of the 'quantum' in quantum computing?",
+    "correctAnswer": "The smallest unit of quantum information and quantum computation",
+    "answers": [
+      "The largest unit of quantum information",
+      "The fastest unit of quantum computation",
+      "The smallest unit of quantum information and quantum computation",
+      "The most complex unit of quantum computation"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "A7B8C9D1E2F3G4",
+    "question": "What is 'side-channel attack' in computer security?",
+    "correctAnswer": "An attack that exploits information leaked by a system's physical implementation, such as power consumption or electromagnetic emissions",
+    "answers": [
+      "An attack from a remote location",
+      "An attack that targets web applications",
+      "An attack that exploits information leaked by a system's physical implementation, such as power consumption or electromagnetic emissions",
+      "An attack that involves social engineering"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "H5I4J3K2L1M9N8",
+    "question": "What is 'quantum entanglement' in quantum physics?",
+    "correctAnswer": "A phenomenon where two or more particles become correlated in such a way that their individual quantum states cannot be described independently",
+    "answers": [
+      "The teleportation of quantum information",
+      "The measurement of quantum states",
+      "A phenomenon where two or more particles become correlated in such a way that their individual quantum states cannot be described independently",
+      "The superposition of quantum states"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "O7P8Q9R1S2T3U4",
+    "question": "What is the purpose of the 'Lambda' function in AWS (Amazon Web Services)?",
+    "correctAnswer": "To run code without provisioning or managing servers",
+    "answers": ["To create virtual networks", "To manage databases", "To run code without provisioning or managing servers", "To generate random data"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "V5W6X7Y8Z9A1B2",
+    "question": "What is 'quantum supremacy' in the context of quantum computing?",
+    "correctAnswer": "The point at which a quantum computer can perform a task that is practically impossible for classical computers to accomplish in a reasonable amount of time",
+    "answers": [
+      "The point at which quantum computers become commercially available",
+      "The point at which quantum computers achieve perfect security",
+      "The point at which a quantum computer can perform any calculation instantly",
+      "The point at which a quantum computer can perform a task that is practically impossible for classical computers to accomplish in a reasonable amount of time"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "C3D4E5F6G7H8I9",
+    "question": "What is the purpose of 'homomorphic encryption' in cryptography?",
+    "correctAnswer": "To perform computations on encrypted data without decrypting it first",
+    "answers": [
+      "To securely store encryption keys",
+      "To speed up encryption and decryption processes",
+      "To perform computations on encrypted data without decrypting it first",
+      "To create secure communication channels"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "J1K2L3M4N5O6P7",
+    "question": "What is the concept of 'quantum teleportation' in quantum computing?",
+    "correctAnswer": "The transfer of quantum information from one location to another, with the help of two entangled particles",
+    "answers": [
+      "The instant transmission of classical information",
+      "The transfer of quantum information using traditional networks",
+      "The transfer of classical information using quantum networks",
+      "The transfer of quantum information from one location to another, with the help of two entangled particles"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "Q8R9S1T2U3V4W5",
+    "question": "What is 'post-quantum cryptography' in cybersecurity?",
+    "correctAnswer": "Cryptography algorithms and techniques designed to remain secure in the presence of quantum computers",
+    "answers": [
+      "Cryptography techniques used in post-quantum physics",
+      "Cryptography techniques used for post-quantum computers",
+      "Cryptography algorithms and techniques designed to remain secure in the presence of quantum computers",
+      "Cryptography algorithms used for quantum teleportation"
+    ],
+    "level": "hard",
+    "category": "programming"
+  }
+]

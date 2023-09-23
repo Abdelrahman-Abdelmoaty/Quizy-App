@@ -1,0 +1,576 @@
+[
+  {
+    "id": "A1B2C3D4E5",
+    "question": "What is the purpose of a 'for' loop in programming?",
+    "correctAnswer": "Repeated execution of code",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X9Y8Z7W6V5",
+    "question": "Which programming language is often used for data analysis and scientific computing?",
+    "correctAnswer": "Python",
+    "answers": ["JavaScript", "Java", "C++", "Python"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "P3Q7R9S1T2",
+    "question": "What is the purpose of the 'else' statement in programming?",
+    "correctAnswer": "Alternative code execution when a condition is false",
+    "answers": ["Variable declaration", "Function definition", "Conditional execution of code", "Alternative code execution when a condition is false"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5N2O8P4L7",
+    "question": "What does the acronym 'SQL' stand for?",
+    "correctAnswer": "Structured Query Language",
+    "answers": ["Sequential Query Language", "Structured Query Language", "System Query Language", "Static Query Language"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "F1G2H3I4J5K6",
+    "question": "In web development, which programming language is used for defining the structure and content of a web page?",
+    "correctAnswer": "HTML",
+    "answers": ["CSS", "JavaScript", "HTML", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U9V4W1X3Y7Z5",
+    "question": "What is the purpose of the 'while' loop in programming?",
+    "correctAnswer": "Repeated execution of code while a condition is true",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code while a condition is true"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "B2C4D6E8F1G3",
+    "question": "Which data structure in Python is used to store a collection of items, and it does not allow duplicate elements?",
+    "correctAnswer": "Set",
+    "answers": ["List", "Tuple", "Dictionary", "Set"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T8R7E6Q5U4I3",
+    "question": "What is the purpose of the 'break' statement in loops?",
+    "correctAnswer": "To exit the loop prematurely",
+    "answers": ["To continue to the next iteration of the loop", "To print a message", "To execute a function", "To exit the loop prematurely"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "L2M3N4O5P6Q7",
+    "question": "In object-oriented programming, what is a class?",
+    "correctAnswer": "A blueprint for creating objects",
+    "answers": ["A variable", "A function", "A condition", "A blueprint for creating objects"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H7G5F3E1D9C2",
+    "question": "Which programming language is often used for building mobile apps?",
+    "correctAnswer": "Java",
+    "answers": ["C++", "Python", "JavaScript", "Java"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "K8L7M6N5O4P3",
+    "question": "What is the primary purpose of a function in programming?",
+    "correctAnswer": "To group and reuse code",
+    "answers": ["To declare variables", "To define conditions", "To create loops", "To group and reuse code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X2Y3Z4A5B6C7",
+    "question": "Which programming language is known for its use in machine learning and artificial intelligence?",
+    "correctAnswer": "Python",
+    "answers": ["Java", "C++", "Python", "JavaScript"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "D1E2F3G4H5I6",
+    "question": "What does the term 'API' stand for in programming?",
+    "correctAnswer": "Application Programming Interface",
+    "answers": ["Advanced Programming Interface", "Application Program Interface", "Application Programming Interface", "Advanced Program Interface"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "J7K6L5M4N3O2",
+    "question": "In JavaScript, which method is used to display text in a web page?",
+    "correctAnswer": "document.write()",
+    "answers": ["console.log()", "alert()", "print()", "document.write()"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H4G3F2E1D9C8",
+    "question": "What is the purpose of the 'try...catch' block in programming?",
+    "correctAnswer": "To handle exceptions and errors",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To handle exceptions and errors"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U2V3W4X5Y6Z7",
+    "question": "Which data structure in Python is ordered and allows duplicate elements?",
+    "correctAnswer": "List",
+    "answers": ["Set", "Tuple", "Dictionary", "List"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "S6R7Q8P9O1N2",
+    "question": "What is the purpose of the 'continue' statement in loops?",
+    "correctAnswer": "To skip the current iteration and continue with the next",
+    "answers": ["To exit the loop", "To print a message", "To start a new loop", "To skip the current iteration and continue with the next"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T5E4N3C2O1J8",
+    "question": "In object-oriented programming, what is an object?",
+    "correctAnswer": "An instance of a class",
+    "answers": ["A function", "A variable", "A condition", "An instance of a class"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5O4N3K2I1H8",
+    "question": "Which programming language is often used for web development on the server side?",
+    "correctAnswer": "PHP",
+    "answers": ["Java", "C#", "Python", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "G7F6E5D4C3B2",
+    "question": "What is the purpose of the 'switch' statement in programming?",
+    "correctAnswer": "To make decisions based on multiple conditions",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To make decisions based on multiple conditions"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "A1B2C3D4E5F6",
+    "question": "What is the purpose of recursion in programming?",
+    "correctAnswer": "A function calling itself",
+    "answers": ["Creating objects", "A function calling itself", "Handling errors", "Defining classes"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "G7H8I9J1K2L3",
+    "question": "What is a linked list in data structures?",
+    "correctAnswer": "A data structure where each element points to the next one",
+    "answers": ["A list of hyperlinks", "A list of sorted elements", "A data structure where each element points to the next one", "A list of elements with no order"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "M4N5O6P7Q8R9",
+    "question": "What does the acronym 'JSON' stand for?",
+    "correctAnswer": "JavaScript Object Notation",
+    "answers": ["Java System Object Notation", "JavaScript Object Notation", "JSON Object Naming", "Java Scripting Oriented Notation"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "S1T2U3V4W5X6",
+    "question": "In Python, how do you open a file for writing?",
+    "correctAnswer": "Using the 'w' mode",
+    "answers": ["Using the 'r' mode", "Using the 'a' mode", "Using the 'x' mode", "Using the 'w' mode"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Y7Z8A9B1C2D3",
+    "question": "What is a binary search algorithm used for?",
+    "correctAnswer": "Searching for an element in a sorted array",
+    "answers": ["Sorting an array", "Searching for an element in an unsorted array", "Searching for an element in a sorted array", "Iterating through all elements of an array"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "E4F5G6H7I8J9",
+    "question": "What is the purpose of the 'finally' block in exception handling?",
+    "correctAnswer": "To specify code that must be executed regardless of whether an exception is thrown or caught",
+    "answers": [
+      "To catch exceptions",
+      "To throw exceptions",
+      "To specify code that runs only if an exception is caught",
+      "To specify code that must be executed regardless of whether an exception is thrown or caught"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "K1L2M3N4O5P6",
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "correctAnswer": "To refer to the current object",
+    "answers": ["To declare variables", "To define functions", "To refer to the parent object", "To refer to the current object"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Q7R8S9T1U2V3",
+    "question": "What is the role of an index in a database?",
+    "correctAnswer": "To improve the speed of data retrieval",
+    "answers": ["To define table relationships", "To store data", "To improve the speed of data retrieval", "To define database schemas"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "W4X5Y6Z7A8B9",
+    "question": "What is a binary tree in data structures?",
+    "correctAnswer": "A tree data structure in which each node has at most two children",
+    "answers": [
+      "A tree data structure with only one node",
+      "A tree data structure with three children",
+      "A tree data structure in which each node has at most two children",
+      "A tree data structure in which each node has at most one child"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "C1D2E3F4G5H6",
+    "question": "In object-oriented programming, what is inheritance?",
+    "correctAnswer": "A mechanism by which a class can inherit properties and behaviors from another class",
+    "answers": [
+      "A mechanism by which a class can create multiple objects",
+      "A mechanism by which a class can define its own properties",
+      "A mechanism by which a class can inherit properties and behaviors from another class",
+      "A mechanism by which a class can be instantiated"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "I7J8K9L1M2N3",
+    "question": "What is a SQL JOIN statement used for?",
+    "correctAnswer": "Combining rows from two or more tables based on a related column between them",
+    "answers": [
+      "Sorting rows in a table",
+      "Deleting rows from a table",
+      "Updating rows in a table",
+      "Combining rows from two or more tables based on a related column between them"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "O4P5Q6R7S8T9",
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "correctAnswer": "To initialize the attributes of an object when it is created",
+    "answers": ["To define class methods", "To declare class variables", "To create new objects", "To initialize the attributes of an object when it is created"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "U1V2W3X4Y5Z6",
+    "question": "What is the Big O notation used for in algorithm analysis?",
+    "correctAnswer": "To describe the performance or complexity of an algorithm",
+    "answers": [
+      "To define data structures",
+      "To implement sorting algorithms",
+      "To describe the performance or complexity of an algorithm",
+      "To determine the output of an algorithm"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "A8B7C6D5E4F3",
+    "question": "What is a stack data structure used for?",
+    "correctAnswer": "To store and manage data in a last-in, first-out (LIFO) order",
+    "answers": [
+      "To store and manage data in a first-in, first-out (FIFO) order",
+      "To sort data",
+      "To store and manage data in a random order",
+      "To store and manage data in a last-in, first-out (LIFO) order"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "G2H1I9J8K7L6",
+    "question": "What is an API endpoint in web development?",
+    "correctAnswer": "A specific URL or URI that an API can be accessed through",
+    "answers": [
+      "A programming interface for applications",
+      "A programming interface for algorithms",
+      "A specific URL or URI that an API can be accessed through",
+      "A specific function within an API"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "M5N4O3P2Q1R9",
+    "question": "What is the purpose of the 'git' version control system?",
+    "correctAnswer": "To track changes in source code and collaborate on software development",
+    "answers": ["To run web servers", "To design user interfaces", "To track changes in source code and collaborate on software development", "To create databases"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "S8T7U6V5W4X3",
+    "question": "What is a binary heap data structure used for?",
+    "correctAnswer": "Efficiently finding and removing the maximum (or minimum) element",
+    "answers": ["Storing sorted data", "Sorting data", "Efficiently finding and removing the maximum (or minimum) element", "Searching data"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Y2Z3A4B5C6D7",
+    "question": "What is the purpose of the 'yield' keyword in Python?",
+    "correctAnswer": "To pause a function's execution and return a value to the caller",
+    "answers": ["To stop a function's execution", "To restart a function", "To pause a function's execution and return a value to the caller", "To define a new function"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "E8F7G6H5I4J3",
+    "question": "In object-oriented programming, what is encapsulation?",
+    "correctAnswer": "The bundling of data and methods that operate on that data into a single unit",
+    "answers": [
+      "The creation of multiple objects",
+      "The inheritance of properties",
+      "The bundling of data and methods that operate on that data into a single unit",
+      "The definition of classes"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "K2L3M4N5O6P7",
+    "question": "What is the purpose of the 'await' keyword in asynchronous programming?",
+    "correctAnswer": "To pause execution until a promise is resolved or rejected",
+    "answers": ["To start a new thread", "To execute code in parallel", "To pause execution until a promise is resolved or rejected", "To handle exceptions"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "A1B2C3D4E5F6G7H8",
+    "question": "What is the purpose of dynamic programming in algorithm design?",
+    "correctAnswer": "To solve problems by breaking them down into smaller overlapping subproblems",
+    "answers": [
+      "To design algorithms that change dynamically",
+      "To create programs that update themselves",
+      "To solve problems by breaking them down into smaller overlapping subproblems",
+      "To generate random solutions to problems"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "I9J1K2L3M4N5O6",
+    "question": "What is the time complexity of the quicksort algorithm in the average case?",
+    "correctAnswer": "O(n log n)",
+    "answers": ["O(1)", "O(n)", "O(n^2)", "O(n log n)"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "P7Q8R9S1T2U3V4",
+    "question": "What is the purpose of memoization in dynamic programming?",
+    "correctAnswer": "To store and reuse the results of expensive function calls",
+    "answers": ["To encrypt data", "To optimize network communication", "To store and reuse the results of expensive function calls", "To generate random numbers"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "W5X6Y7Z8A9B1C2",
+    "question": "What is the Halting Problem in computer science?",
+    "correctAnswer": "A problem that cannot be solved by a Turing machine to determine if an arbitrary program will halt or run forever",
+    "answers": [
+      "A problem that halts all computer programs",
+      "A problem that can be solved by any computer",
+      "A problem that involves halting execution of a program",
+      "A problem that cannot be solved by a Turing machine to determine if an arbitrary program will halt or run forever"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "D3E4F5G6H7I8J9",
+    "question": "What is the purpose of the 'volatile' keyword in C and C++?",
+    "correctAnswer": "To indicate that a variable can be changed by external factors and should not be optimized by the compiler",
+    "answers": [
+      "To declare a constant variable",
+      "To make a variable immutable",
+      "To indicate that a variable can be changed by external factors and should not be optimized by the compiler",
+      "To specify the scope of a variable"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "K1L2M3N4O5P6Q7",
+    "question": "What is the purpose of the 'mutex' (mutual exclusion) in concurrent programming?",
+    "correctAnswer": "To prevent multiple threads from accessing shared resources simultaneously",
+    "answers": [
+      "To create immutable data structures",
+      "To optimize code execution",
+      "To prevent multiple threads from accessing shared resources simultaneously",
+      "To define function prototypes"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "R8S9T1U2V3W4X5",
+    "question": "What is the concept of 'cache coherency' in computer architecture?",
+    "correctAnswer": "Ensuring that multiple caches in a multiprocessor system have consistent views of memory",
+    "answers": [
+      "Optimizing cache performance",
+      "Storing data in memory",
+      "Ensuring that multiple caches in a multiprocessor system have consistent views of memory",
+      "Encrypting cache data"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "Y6Z7A8B9C1D2E3",
+    "question": "What is the purpose of the 'struts' framework in Java web development?",
+    "correctAnswer": "To create a Model-View-Controller (MVC) architecture for web applications",
+    "answers": ["To design user interfaces", "To manage database connections", "To create a Model-View-Controller (MVC) architecture for web applications", "To write algorithms"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "F4G5H6I7J8K9L1",
+    "question": "What is 'concurrency control' in database management systems?",
+    "correctAnswer": "A mechanism to manage simultaneous access to the database by multiple users or transactions",
+    "answers": [
+      "A mechanism to create backups of the database",
+      "A mechanism to compress database files",
+      "A mechanism to manage simultaneous access to the database by multiple users or transactions",
+      "A mechanism to encrypt database records"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "M2N3O4P5Q6R7S8",
+    "question": "What is the purpose of the 'docker' containerization platform?",
+    "correctAnswer": "To package, distribute, and run applications and their dependencies in isolated environments",
+    "answers": [
+      "To develop video games",
+      "To create virtual machines",
+      "To package, distribute, and run applications and their dependencies in isolated environments",
+      "To build hardware devices"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "T9U1V2W3X4Y5Z6",
+    "question": "What is the purpose of the 'quantum' in quantum computing?",
+    "correctAnswer": "The smallest unit of quantum information and quantum computation",
+    "answers": [
+      "The largest unit of quantum information",
+      "The fastest unit of quantum computation",
+      "The smallest unit of quantum information and quantum computation",
+      "The most complex unit of quantum computation"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "A7B8C9D1E2F3G4",
+    "question": "What is 'side-channel attack' in computer security?",
+    "correctAnswer": "An attack that exploits information leaked by a system's physical implementation, such as power consumption or electromagnetic emissions",
+    "answers": [
+      "An attack from a remote location",
+      "An attack that targets web applications",
+      "An attack that exploits information leaked by a system's physical implementation, such as power consumption or electromagnetic emissions",
+      "An attack that involves social engineering"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "H5I4J3K2L1M9N8",
+    "question": "What is 'quantum entanglement' in quantum physics?",
+    "correctAnswer": "A phenomenon where two or more particles become correlated in such a way that their individual quantum states cannot be described independently",
+    "answers": [
+      "The teleportation of quantum information",
+      "The measurement of quantum states",
+      "A phenomenon where two or more particles become correlated in such a way that their individual quantum states cannot be described independently",
+      "The superposition of quantum states"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "O7P8Q9R1S2T3U4",
+    "question": "What is the purpose of the 'Lambda' function in AWS (Amazon Web Services)?",
+    "correctAnswer": "To run code without provisioning or managing servers",
+    "answers": ["To create virtual networks", "To manage databases", "To run code without provisioning or managing servers", "To generate random data"],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "V5W6X7Y8Z9A1B2",
+    "question": "What is 'quantum supremacy' in the context of quantum computing?",
+    "correctAnswer": "The point at which a quantum computer can perform a task that is practically impossible for classical computers to accomplish in a reasonable amount of time",
+    "answers": [
+      "The point at which quantum computers become commercially available",
+      "The point at which quantum computers achieve perfect security",
+      "The point at which a quantum computer can perform any calculation instantly",
+      "The point at which a quantum computer can perform a task that is practically impossible for classical computers to accomplish in a reasonable amount of time"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "C3D4E5F6G7H8I9",
+    "question": "What is the purpose of 'homomorphic encryption' in cryptography?",
+    "correctAnswer": "To perform computations on encrypted data without decrypting it first",
+    "answers": [
+      "To securely store encryption keys",
+      "To speed up encryption and decryption processes",
+      "To perform computations on encrypted data without decrypting it first",
+      "To create secure communication channels"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "J1K2L3M4N5O6P7",
+    "question": "What is the concept of 'quantum teleportation' in quantum computing?",
+    "correctAnswer": "The transfer of quantum information from one location to another, with the help of two entangled particles",
+    "answers": [
+      "The instant transmission of classical information",
+      "The transfer of quantum information using traditional networks",
+      "The transfer of classical information using quantum networks",
+      "The transfer of quantum information from one location to another, with the help of two entangled particles"
+    ],
+    "level": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "Q8R9S1T2U3V4W5",
+    "question": "What is 'post-quantum cryptography' in cybersecurity?",
+    "correctAnswer": "Cryptography algorithms and techniques designed to remain secure in the presence of quantum computers",
+    "answers": [
+      "Cryptography techniques used in post-quantum physics",
+      "Cryptography techniques used for post-quantum computers",
+      "Cryptography algorithms and techniques designed to remain secure in the presence of quantum computers",
+      "Cryptography algorithms used for quantum teleportation"
+    ],
+    "level": "hard",
+    "category": "programming"
+  }
+]

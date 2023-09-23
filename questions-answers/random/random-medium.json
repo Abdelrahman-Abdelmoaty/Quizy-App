@@ -1,0 +1,354 @@
+[
+  {
+    "id": "A1B2C3D4E5F6",
+    "question": "What is the purpose of recursion in programming?",
+    "correctAnswer": "A function calling itself",
+    "answers": ["Creating objects", "A function calling itself", "Handling errors", "Defining classes"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "G7H8I9J1K2L3",
+    "question": "What is a linked list in data structures?",
+    "correctAnswer": "A data structure where each element points to the next one",
+    "answers": ["A list of hyperlinks", "A list of sorted elements", "A data structure where each element points to the next one", "A list of elements with no order"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "M4N5O6P7Q8R9",
+    "question": "What does the acronym 'JSON' stand for?",
+    "correctAnswer": "JavaScript Object Notation",
+    "answers": ["Java System Object Notation", "JavaScript Object Notation", "JSON Object Naming", "Java Scripting Oriented Notation"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "S1T2U3V4W5X6",
+    "question": "In Python, how do you open a file for writing?",
+    "correctAnswer": "Using the 'w' mode",
+    "answers": ["Using the 'r' mode", "Using the 'a' mode", "Using the 'x' mode", "Using the 'w' mode"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Y7Z8A9B1C2D3",
+    "question": "What is a binary search algorithm used for?",
+    "correctAnswer": "Searching for an element in a sorted array",
+    "answers": ["Sorting an array", "Searching for an element in an unsorted array", "Searching for an element in a sorted array", "Iterating through all elements of an array"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "E4F5G6H7I8J9",
+    "question": "What is the purpose of the 'finally' block in exception handling?",
+    "correctAnswer": "To specify code that must be executed regardless of whether an exception is thrown or caught",
+    "answers": [
+      "To catch exceptions",
+      "To throw exceptions",
+      "To specify code that runs only if an exception is caught",
+      "To specify code that must be executed regardless of whether an exception is thrown or caught"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "K1L2M3N4O5P6",
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "correctAnswer": "To refer to the current object",
+    "answers": ["To declare variables", "To define functions", "To refer to the parent object", "To refer to the current object"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Q7R8S9T1U2V3",
+    "question": "What is the role of an index in a database?",
+    "correctAnswer": "To improve the speed of data retrieval",
+    "answers": ["To define table relationships", "To store data", "To improve the speed of data retrieval", "To define database schemas"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "W4X5Y6Z7A8B9",
+    "question": "What is a binary tree in data structures?",
+    "correctAnswer": "A tree data structure in which each node has at most two children",
+    "answers": [
+      "A tree data structure with only one node",
+      "A tree data structure with three children",
+      "A tree data structure in which each node has at most two children",
+      "A tree data structure in which each node has at most one child"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "C1D2E3F4G5H6",
+    "question": "In object-oriented programming, what is inheritance?",
+    "correctAnswer": "A mechanism by which a class can inherit properties and behaviors from another class",
+    "answers": [
+      "A mechanism by which a class can create multiple objects",
+      "A mechanism by which a class can define its own properties",
+      "A mechanism by which a class can inherit properties and behaviors from another class",
+      "A mechanism by which a class can be instantiated"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "I7J8K9L1M2N3",
+    "question": "What is a SQL JOIN statement used for?",
+    "correctAnswer": "Combining rows from two or more tables based on a related column between them",
+    "answers": [
+      "Sorting rows in a table",
+      "Deleting rows from a table",
+      "Updating rows in a table",
+      "Combining rows from two or more tables based on a related column between them"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "O4P5Q6R7S8T9",
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "correctAnswer": "To initialize the attributes of an object when it is created",
+    "answers": ["To define class methods", "To declare class variables", "To create new objects", "To initialize the attributes of an object when it is created"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "U1V2W3X4Y5Z6",
+    "question": "What is the Big O notation used for in algorithm analysis?",
+    "correctAnswer": "To describe the performance or complexity of an algorithm",
+    "answers": [
+      "To define data structures",
+      "To implement sorting algorithms",
+      "To describe the performance or complexity of an algorithm",
+      "To determine the output of an algorithm"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "A8B7C6D5E4F3",
+    "question": "What is a stack data structure used for?",
+    "correctAnswer": "To store and manage data in a last-in, first-out (LIFO) order",
+    "answers": [
+      "To store and manage data in a first-in, first-out (FIFO) order",
+      "To sort data",
+      "To store and manage data in a random order",
+      "To store and manage data in a last-in, first-out (LIFO) order"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "G2H1I9J8K7L6",
+    "question": "What is an API endpoint in web development?",
+    "correctAnswer": "A specific URL or URI that an API can be accessed through",
+    "answers": [
+      "A programming interface for applications",
+      "A programming interface for algorithms",
+      "A specific URL or URI that an API can be accessed through",
+      "A specific function within an API"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "M5N4O3P2Q1R9",
+    "question": "What is the purpose of the 'git' version control system?",
+    "correctAnswer": "To track changes in source code and collaborate on software development",
+    "answers": ["To run web servers", "To design user interfaces", "To track changes in source code and collaborate on software development", "To create databases"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "S8T7U6V5W4X3",
+    "question": "What is a binary heap data structure used for?",
+    "correctAnswer": "Efficiently finding and removing the maximum (or minimum) element",
+    "answers": ["Storing sorted data", "Sorting data", "Efficiently finding and removing the maximum (or minimum) element", "Searching data"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "Y2Z3A4B5C6D7",
+    "question": "What is the purpose of the 'yield' keyword in Python?",
+    "correctAnswer": "To pause a function's execution and return a value to the caller",
+    "answers": ["To stop a function's execution", "To restart a function", "To pause a function's execution and return a value to the caller", "To define a new function"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "E8F7G6H5I4J3",
+    "question": "In object-oriented programming, what is encapsulation?",
+    "correctAnswer": "The bundling of data and methods that operate on that data into a single unit",
+    "answers": [
+      "The creation of multiple objects",
+      "The inheritance of properties",
+      "The bundling of data and methods that operate on that data into a single unit",
+      "The definition of classes"
+    ],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "K2L3M4N5O6P7",
+    "question": "What is the purpose of the 'await' keyword in asynchronous programming?",
+    "correctAnswer": "To pause execution until a promise is resolved or rejected",
+    "answers": ["To start a new thread", "To execute code in parallel", "To pause execution until a promise is resolved or rejected", "To handle exceptions"],
+    "level": "medium",
+    "category": "programming"
+  },
+  {
+    "id": "A1B2C3D4E5",
+    "question": "Solve for x: 2x + 3 = 11",
+    "correctAnswer": "x = 4",
+    "answers": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "F6G7H8I9J1",
+    "question": "What is the value of the mathematical constant 'e' (Euler's number) approximately equal to?",
+    "correctAnswer": "2.71828",
+    "answers": ["3.14159", "2.71828", "1.61803", "4.66920"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "K2L3M4N5O6",
+    "question": "If a circle has a diameter of 10 units, what is its radius?",
+    "correctAnswer": "5 units",
+    "answers": ["2 units", "5 units", "10 units", "20 units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "P7Q8R9S1T2",
+    "question": "What is the value of sin(45 degrees)?",
+    "correctAnswer": "0.70711",
+    "answers": ["0.50000", "0.70711", "0.86603", "1.00000"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "U3V4W5X6Y7",
+    "question": "What is the area of a right triangle with a base of 6 units and a height of 8 units?",
+    "correctAnswer": "24 square units",
+    "answers": ["12 square units", "18 square units", "24 square units", "30 square units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "Z8A9B1C2D3",
+    "question": "What is the value of cos(60 degrees)?",
+    "correctAnswer": "0.50000",
+    "answers": ["0.50000", "0.70711", "0.86603", "1.00000"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "E4F5G6H7I8",
+    "question": "What is the sum of the angles in a triangle?",
+    "correctAnswer": "180 degrees",
+    "answers": ["90 degrees", "120 degrees", "180 degrees", "360 degrees"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "J9K1L2M3N4",
+    "question": "What is the value of log10(100)?",
+    "correctAnswer": "2",
+    "answers": ["1", "2", "3", "4"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "O5P6Q7R8S9",
+    "question": "What is the volume of a cube with a side length of 4 units?",
+    "correctAnswer": "64 cubic units",
+    "answers": ["16 cubic units", "32 cubic units", "48 cubic units", "64 cubic units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "T1U2V3W4X5",
+    "question": "If a rectangle has a length of 9 units and a width of 6 units, what is its perimeter?",
+    "correctAnswer": "30 units",
+    "answers": ["15 units", "24 units", "30 units", "36 units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "Y6Z7A8B9C1",
+    "question": "What is the value of 3^4 (3 raised to the power of 4)?",
+    "correctAnswer": "81",
+    "answers": ["27", "64", "81", "243"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "D2E3F4G5H6",
+    "question": "What is the value of tan(30 degrees)?",
+    "correctAnswer": "0.57735",
+    "answers": ["0.28868", "0.57735", "1.73205", "3.73205"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "I7J8K9L1M2",
+    "question": "If a rectangle has a length of 12 units and a diagonal of 15 units, what is its width?",
+    "correctAnswer": "9 units",
+    "answers": ["3 units", "6 units", "9 units", "12 units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "N3O4P5Q6R7",
+    "question": "What is the value of 5! (5 factorial)?",
+    "correctAnswer": "120",
+    "answers": ["20", "60", "120", "240"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "S8T9U1V2W3",
+    "question": "What is the area of a circle with a radius of 7 units (use π ≈ 3.14159)?",
+    "correctAnswer": "153.94 square units",
+    "answers": ["44 square units", "96.47 square units", "153.94 square units", "308.89 square units"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "X4Y5Z6A7B8",
+    "question": "Simplify the expression: 2(x + 3) - 4x",
+    "correctAnswer": "-2x + 6",
+    "answers": ["-2x - 6", "-2x + 6", "2x - 6", "2x + 6"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "C9D1E2F3G4",
+    "question": "What is the value of 7^2 (7 raised to the power of 2)?",
+    "correctAnswer": "49",
+    "answers": ["14", "21", "35", "49"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "H5I6J7K8L9",
+    "question": "What is the value of log2(16)?",
+    "correctAnswer": "4",
+    "answers": ["2", "3", "4", "5"],
+    "level": "medium",
+    "category": "math"
+  },
+  {
+    "id": "M1N2O3P4Q5",
+    "question": "If a parallelogram has a base of 10 units and a height of 7 units, what is its area?",
+    "correctAnswer": "70 square units",
+    "answers": ["17.5 square units", "35 square units", "70 square units", "140 square units"],
+    "level": "medium",
+    "category": "math"
+  }
+]

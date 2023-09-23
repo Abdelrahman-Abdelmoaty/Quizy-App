@@ -1,0 +1,314 @@
+[
+  {
+    "id": "A1B2C3D4E5",
+    "question": "What is the purpose of a 'for' loop in programming?",
+    "correctAnswer": "Repeated execution of code",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X9Y8Z7W6V5",
+    "question": "Which programming language is often used for data analysis and scientific computing?",
+    "correctAnswer": "Python",
+    "answers": ["JavaScript", "Java", "C++", "Python"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "P3Q7R9S1T2",
+    "question": "What is the purpose of the 'else' statement in programming?",
+    "correctAnswer": "Alternative code execution when a condition is false",
+    "answers": ["Variable declaration", "Function definition", "Conditional execution of code", "Alternative code execution when a condition is false"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5N2O8P4L7",
+    "question": "What does the acronym 'SQL' stand for?",
+    "correctAnswer": "Structured Query Language",
+    "answers": ["Sequential Query Language", "Structured Query Language", "System Query Language", "Static Query Language"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "F1G2H3I4J5K6",
+    "question": "In web development, which programming language is used for defining the structure and content of a web page?",
+    "correctAnswer": "HTML",
+    "answers": ["CSS", "JavaScript", "HTML", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U9V4W1X3Y7Z5",
+    "question": "What is the purpose of the 'while' loop in programming?",
+    "correctAnswer": "Repeated execution of code while a condition is true",
+    "answers": ["Function definition", "Variable declaration", "Conditional execution of code", "Repeated execution of code while a condition is true"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "B2C4D6E8F1G3",
+    "question": "Which data structure in Python is used to store a collection of items, and it does not allow duplicate elements?",
+    "correctAnswer": "Set",
+    "answers": ["List", "Tuple", "Dictionary", "Set"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T8R7E6Q5U4I3",
+    "question": "What is the purpose of the 'break' statement in loops?",
+    "correctAnswer": "To exit the loop prematurely",
+    "answers": ["To continue to the next iteration of the loop", "To print a message", "To execute a function", "To exit the loop prematurely"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "L2M3N4O5P6Q7",
+    "question": "In object-oriented programming, what is a class?",
+    "correctAnswer": "A blueprint for creating objects",
+    "answers": ["A variable", "A function", "A condition", "A blueprint for creating objects"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H7G5F3E1D9C2",
+    "question": "Which programming language is often used for building mobile apps?",
+    "correctAnswer": "Java",
+    "answers": ["C++", "Python", "JavaScript", "Java"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "K8L7M6N5O4P3",
+    "question": "What is the primary purpose of a function in programming?",
+    "correctAnswer": "To group and reuse code",
+    "answers": ["To declare variables", "To define conditions", "To create loops", "To group and reuse code"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "X2Y3Z4A5B6C7",
+    "question": "Which programming language is known for its use in machine learning and artificial intelligence?",
+    "correctAnswer": "Python",
+    "answers": ["Java", "C++", "Python", "JavaScript"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "D1E2F3G4H5I6",
+    "question": "What does the term 'API' stand for in programming?",
+    "correctAnswer": "Application Programming Interface",
+    "answers": ["Advanced Programming Interface", "Application Program Interface", "Application Programming Interface", "Advanced Program Interface"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "J7K6L5M4N3O2",
+    "question": "In JavaScript, which method is used to display text in a web page?",
+    "correctAnswer": "document.write()",
+    "answers": ["console.log()", "alert()", "print()", "document.write()"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "H4G3F2E1D9C8",
+    "question": "What is the purpose of the 'try...catch' block in programming?",
+    "correctAnswer": "To handle exceptions and errors",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To handle exceptions and errors"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "U2V3W4X5Y6Z7",
+    "question": "Which data structure in Python is ordered and allows duplicate elements?",
+    "correctAnswer": "List",
+    "answers": ["Set", "Tuple", "Dictionary", "List"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "S6R7Q8P9O1N2",
+    "question": "What is the purpose of the 'continue' statement in loops?",
+    "correctAnswer": "To skip the current iteration and continue with the next",
+    "answers": ["To exit the loop", "To print a message", "To start a new loop", "To skip the current iteration and continue with the next"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "T5E4N3C2O1J8",
+    "question": "In object-oriented programming, what is an object?",
+    "correctAnswer": "An instance of a class",
+    "answers": ["A function", "A variable", "A condition", "An instance of a class"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "M5O4N3K2I1H8",
+    "question": "Which programming language is often used for web development on the server side?",
+    "correctAnswer": "PHP",
+    "answers": ["Java", "C#", "Python", "PHP"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "G7F6E5D4C3B2",
+    "question": "What is the purpose of the 'switch' statement in programming?",
+    "correctAnswer": "To make decisions based on multiple conditions",
+    "answers": ["To create variables", "To define conditions", "To execute loops", "To make decisions based on multiple conditions"],
+    "level": "easy",
+    "category": "programming"
+  },
+  {
+    "id": "A1B2C3D4E5",
+    "question": "Simplify the expression: (3x + 2x) - (4x - 7)",
+    "correctAnswer": "12x + 7",
+    "answers": ["5x - 3", "12x - 7", "12x + 7", "5x + 3"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "F6G7H8I9J1",
+    "question": "What is the value of pi (π) approximately equal to?",
+    "correctAnswer": "3.14159",
+    "answers": ["2.71828", "3.14159", "1.61803", "4.66920"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "K2L3M4N5O6",
+    "question": "If a triangle has angles measuring 30 degrees, 60 degrees, and 90 degrees, what type of triangle is it?",
+    "correctAnswer": "Right triangle",
+    "answers": ["Acute triangle", "Right triangle", "Obtuse triangle", "Equilateral triangle"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "P7Q8R9S1T2",
+    "question": "What is the square root of 144?",
+    "correctAnswer": "12",
+    "answers": ["9", "10", "12", "14"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "U3V4W5X6Y7",
+    "question": "Solve for x: 2x + 5 = 11",
+    "correctAnswer": "x = 3",
+    "answers": ["x = 3", "x = 6", "x = 2", "x = 5"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "Z8A9B1C2D3",
+    "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+    "correctAnswer": "40 square units",
+    "answers": ["13 square units", "25 square units", "40 square units", "56 square units"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "E4F5G6H7I8",
+    "question": "If a number is divisible by 2 and 3, what other number is it also divisible by?",
+    "correctAnswer": "6",
+    "answers": ["4", "5", "6", "7"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "J9K1L2M3N4",
+    "question": "What is the value of 5! (5 factorial)?",
+    "correctAnswer": "120",
+    "answers": ["20", "60", "120", "240"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "O5P6Q7R8S9",
+    "question": "If a circle has a radius of 5 units, what is its circumference (approximately)?",
+    "correctAnswer": "31.42 units",
+    "answers": ["10 units", "15.71 units", "25 units", "31.42 units"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "T1U2V3W4X5",
+    "question": "What is the sum of the first 10 natural numbers?",
+    "correctAnswer": "55",
+    "answers": ["45", "50", "55", "60"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "Y6Z7A8B9C1",
+    "question": "Simplify the expression: 2(x - 3) + 4",
+    "correctAnswer": "2x - 2",
+    "answers": ["2x + 2", "2x - 2", "2x - 10", "2x + 10"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "D2E3F4G5H6",
+    "question": "What is the value of the square root of 49?",
+    "correctAnswer": "7",
+    "answers": ["5", "6", "7", "8"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "I7J8K9L1M2",
+    "question": "If a triangle has sides measuring 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+    "correctAnswer": "Right triangle",
+    "answers": ["Acute triangle", "Right triangle", "Obtuse triangle", "Equilateral triangle"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "N3O4P5Q6R7",
+    "question": "What is the next prime number after 17?",
+    "correctAnswer": "19",
+    "answers": ["18", "19", "20", "21"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "S8T9U1V2W3",
+    "question": "If a right angle measures 90 degrees, what does a straight angle measure?",
+    "correctAnswer": "180 degrees",
+    "answers": ["90 degrees", "120 degrees", "135 degrees", "180 degrees"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "X4Y5Z6A7B8",
+    "question": "What is the product of 7 and 9?",
+    "correctAnswer": "63",
+    "answers": ["45", "54", "63", "72"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "C9D1E2F3G4",
+    "question": "What is the value of 2^4 (2 raised to the power of 4)?",
+    "correctAnswer": "16",
+    "answers": ["8", "12", "16", "32"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "H5I6J7K8L9",
+    "question": "Solve for x: 2x = 10",
+    "correctAnswer": "x = 5",
+    "answers": ["x = 2", "x = 5", "x = 8", "x = 10"],
+    "level": "easy",
+    "category": "math"
+  },
+  {
+    "id": "M1N2O3P4Q5",
+    "question": "What is the area of a square with a side length of 6 units?",
+    "correctAnswer": "36 square units",
+    "answers": ["12 square units", "24 square units", "30 square units", "36 square units"],
+    "level": "easy",
+    "category": "math"
+  }
+]
